@@ -68,9 +68,3 @@ To use this notebook:
 1. Ensure you have Jupyter Notebook or Jupyter Lab installed.
 2. Open `Deep_Learning_Project.ipynb` in your Jupyter environment.
 3. Run the cells in order to execute different parts of the project.
-
-## Contribution
-Feel free to fork this project and contribute to enhancing its features or improving its accuracy. Your contributions are highly appreciated!
-
-## License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
