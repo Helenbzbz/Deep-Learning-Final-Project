@@ -1,5 +1,9 @@
 torch
-git+https://github.com/pyg-team/pytorch_geometric.git
+torch-geometric
 torch-sparse
 torch-scatter
 torch-cluster
+numpy
+pandas
+matplotlib
+seaborn
