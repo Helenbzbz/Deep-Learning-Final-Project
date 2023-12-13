@@ -1,8 +1,8 @@
-torch
+torch==1.8.0
 torch-geometric
-torch-sparse
-torch-scatter
-torch-cluster
+torch-sparse -f https://data.pyg.org/whl/torch-1.8.0.html
+torch-scatter -f https://data.pyg.org/whl/torch-1.8.0.html
+torch-cluster -f https://data.pyg.org/whl/torch-1.8.0.html
 numpy
 pandas
 matplotlib
